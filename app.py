@@ -27,6 +27,7 @@ from forecasting import forecast_sales
 
 st.set_page_config(
     page_title="E-Commerce Sales Analytics Dashboard",
+    page_icon="📊",
     layout="wide"
 )
 
